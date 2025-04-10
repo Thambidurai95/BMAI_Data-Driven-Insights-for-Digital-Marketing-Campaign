@@ -9,3 +9,17 @@
   * **Dashboard Creation using Power BI**
   * **Insight Generation, Reporting and Presentation**
 
+# Data Analysis using Excel Task:
+  * **Consolidated the raw data of Digital Marketing – Google Analytics Dataset.**
+  * **Verified the data types of each column and updated them in the standard format.**
+  * **The country name which was updated as (not set) in the dataset, has been removed, considering it as null.**
+  * **KPI metrics CTR, CPC, ROI, and Conversion Rate have been calculated for the available data using the formula updated in the solution approach document.**
+  * **Power BI Dashboards were created using the consolidated dataset.**
+
+# Dashboard Creation using Power BI Task:
+  * **User-friendly dashboards providing real-time insights using interactive chart visualization and navigation**
+
+# Insight Generation, Reporting and Presentation Task:
+  * **Detailed reports summarizing analysis, insights, and recommendations.**
+  * **Clear and compelling presentations for stakeholders.**
+  * **Strategic plans based on insights to optimize campaign performance.**
